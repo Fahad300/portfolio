@@ -8,7 +8,7 @@ with col1:
     st.image('images/photo.jpg')
 
 with col2:
-    st.title("Fahad Mushtaq")
+    st.title("")
     content = """
     👋 Hello there! I'm a passionate UI/UX Developer on a journey to seamlessly blend design aesthetics with the power of code. Currently, I'm diving into the fascinating world of Python to enhance my skill set and broaden my capabilities.
 
